@@ -1,6 +1,6 @@
 Post your images here.
 
-how to resize them:
+how to resize them: // doesn't work apparently 
 <img src="Image/image_namehere.png" width='number'>
 
 you make them visible by using this text:
