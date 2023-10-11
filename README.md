@@ -1,1 +1,1 @@
-Read our Wiki!
+![](Images/Thinking-of-getting-a-cat.jpg)
