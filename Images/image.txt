@@ -1,0 +1,7 @@
+Post your images here.
+
+how to resize them:
+<img src="Image/image_namehere.png" width='number'>
+
+you make them visible by using this text:
+![](Images/image name here.png)
