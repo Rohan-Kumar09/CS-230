@@ -1,7 +1,7 @@
 Post your images here.
 
 how to resize them: // doesn't work apparently 
-<img src="Image/image_namehere.png" width='number'>
+<img src="Image/IMG_3086.jpeg" width='number'>
 
 you make them visible by using this text:
-![](Images/image name here.png)
+![](Images/IMG_3086.jpeg)
