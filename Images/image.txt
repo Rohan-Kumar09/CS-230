@@ -1,5 +1,9 @@
 Post your images here.
 
+<img src="Image/IMG_3086.jpeg" width="300">
+![Image Alt Text](Images/IMG_3086.jpeg)
+
+
 how to resize them: // doesn't work apparently 
 <img src="Image/IMG_3086.jpeg" width='number'>
 
