@@ -3,6 +3,7 @@
 <br>
 <br>
 Biography:
+<br>
 Sahar Karimi is a student at California State University.
 <br>
 She is currently pursuing her undergraduate degree in
