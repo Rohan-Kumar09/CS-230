@@ -14,7 +14,7 @@ for technology, she aspires to become a software engineer. In her
 <br>
 pursuit of this dream, Sahar is already making strides as a frontend 
 <br>
-developer at Allgernes, where she dedicates herself to enhancing user 
+developer at Allergens, where she dedicates herself to enhancing user 
 <br>
 interfaces and experiences. Her commitment and determination are evident
 <br>
