@@ -4,25 +4,24 @@
 <br>
 Biography:
 <br>
-Sahar Karimi is a student at California State University.
+Sahar Karimi, an Afghan American raised in the Bay Area, is currently
 <br>
-She is currently pursuing her undergraduate degree in
+a Computer Science student at California State University. With a 
 <br>
-Computer Science. With a strong educational background 
+strong educational background in Computer Science and a deep passion 
 <br>
-in Computer Science and a passion for technology.
+for technology, she aspires to become a software engineer. In her
 <br>
-She aspires to work at Google as a software engineer. 
+pursuit of this dream, Sahar is already making strides as a frontend 
 <br>
-Sahar's dedication and commitment to her career goals 
+developer at Allgernes, where she dedicates herself to enhancing user 
 <br>
-are clear, and she is determined to pursue a path that 
+interfaces and experiences. Her commitment and determination are evident
 <br>
-will lead her to a fulfilling career as a software engineer, 
+in her academic and professional endeavors. Sahar is not only proficient 
 <br>
-where she can contribute to the renowned culture of innovation 
+in English but also fluent in Farsi, Pashto, Arabic, and Urdu, which further 
 <br>
-and excellence.
-
+enriches her multicultural perspective.
 
 ![](Images/SaharKarimi.jpg)
