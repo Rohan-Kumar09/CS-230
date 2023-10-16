@@ -1,5 +1,8 @@
 ![](Images/Thinking-of-getting-a-cat.jpg)
-
+<br>
+<br>
+<br>
+Biography:
 Sahar Karimi is a student at California State University.
 <br>
 She is currently pursuing her undergraduate degree in
