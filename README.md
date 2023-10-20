@@ -25,8 +25,9 @@ in English but also fluent in Farsi, Pashto, Arabic, and Urdu, which further
 enriches her multicultural perspective.
 
 ![](Images/SaharKarimi.jpg) <br><br><br>
-Mohiyan Mahmud (Mohammed Mashnun Mahmud), originally from Dhaka, Bangladesh, is now studying in the Bay Area, California at <br>
-California State University, East Bay. Majoring in Computer Science, at an undergraduate level. <br>
-Mohiyan envisions to be a programmer and an entrepeneur, starting so by believing in the vision of Allergens and changing <br>
-the world of sensitivity in regards to nutrition. <br>
+Mohiyan Mahmud (Mohammed Mashnun Mahmud), originally from Dhaka, Bangladesh, <br>
+is now studying in the Bay Area, California at California State University, <br>
+East Bay. Majoring in Computer Science, at an undergraduate level. Mohiyan <br>
+envisions to be a programmer and an entrepeneur, starting so by believing in<br>
+the vision of Allergens and changing the world of sensitivity in regards to nutrition. <br>
 ![](Images/Mohiyan.jpeg)
