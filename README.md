@@ -1,8 +1,5 @@
-![](Images/Thinking-of-getting-a-cat.jpg)
 <br>
 <br>
-<br>
-Biography:
 <br>
 Sahar Karimi, an Afghan American raised in the Bay Area, is currently
 <br>
@@ -30,4 +27,12 @@ is now studying in the Bay Area, California at California State University, <br>
 East Bay. Majoring in Computer Science, at an undergraduate level. Mohiyan <br>
 envisions to be a programmer and an entrepeneur, starting so by believing in<br>
 the vision of Allergens and changing the world of sensitivity in regards to nutrition. <br>
-![](Images/Mohiyan.jpeg)
+![](Images/Mohiyan.jpeg) <br><br><br>
+Rohan Kumar is a Student at CSU East Bay. <br>
+He's a Computer Science major and currently a junior <br>
+at the start of this company. He was born in Punjab, <br>
+India. As a result, he's fluent in Punjabi, Hindi, and <br>
+English. He's one of the developers of allergens and is <br>
+good at designing the user interface for the website and <br>
+mobile app. <br>
+![](Images/RohanKumar.JPG)
