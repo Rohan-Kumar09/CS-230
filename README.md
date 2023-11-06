@@ -42,5 +42,5 @@ in computer science at California State University <br>
 East Bay. He was born in Chaozhou, China. He has lived <br>
 in Canada, USA and China. He is fluent in Mandarin Chinese <br>
 and English. He is currently a developer af Allergens. <br>
-![](Images/ZhongkangLyu.JPG)
+![](Images/ZhongkangLyu.jpg)
 
